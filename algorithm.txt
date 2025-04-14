@@ -1,0 +1,10 @@
+1/define the list of candles length
+
+2/find the max by for loop
+if max> next max=max
+else max=next
+
+3/count the max by for loop
+count=0
+if max==next
+count=count+1
